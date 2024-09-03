@@ -10,3 +10,5 @@ I'm Jaeho, from ![krFlag](https://github.com/Jae-hoDo/Jae-hoDo/assets/132924223/
 <img src="https://img.shields.io/badge/Java-E11F21?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jae-hoDo&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jae-hoDo&layout=compact&theme=tokyonight)
